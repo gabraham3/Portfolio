@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Staggering_Smite
+  m_EditorClassIdentifier: 
+  Name: Staggering Smite
+  Classes:
+  - Paladin
+  School: Evocation
+  Description:
+  - "The next time you hit a creature with a melee weapon attack during this spell\u2019s
+    duration, your weapon pierces both body and mind, and the attack deals an extra
+    4d6 psychic damage to the target. The target must make a Wisdom saving throw.
+    On a failed save, it has disadvantage on attack rolls and ability checks, and
+    can't take reactions, until the end of its next turn."
+  Level: 4th-level
+  score: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Ray_of_Frost
+  m_EditorClassIdentifier: 
+  Name: Ray of Frost
+  Classes:
+  - Sorcerer
+  - Wizard
+  School: Evocation
+  Description:
+  - "A frigid beam of blue-white light streaks toward a creature within range. Make
+    a ranged spell attack against the target. On a hit, it takes 1d8 cold damage,
+    and its speed is reduced by 10 feet until the start of your next turn. The spell\u2019s
+    damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and
+    17th level (4d8)."
+  Level: Cantrip
+  score: 0

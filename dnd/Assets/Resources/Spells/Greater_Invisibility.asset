@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Greater_Invisibility
+  m_EditorClassIdentifier: 
+  Name: Greater Invisibility
+  Classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+  School: Illusion
+  Description:
+  - "You or a creature you touch becomes invisible until themspell ends. Anything
+    the target is wearing or carrying isminvisible as long as it is on the target\u2019s
+    person."
+  Level: 4th-level
+  score: 0

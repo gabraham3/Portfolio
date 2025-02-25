@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2638d4f91e3b75b4eb61bacc1eec1434, type: 3}
+  m_Name: A_blank_book_whose_pages_refuse_to_hold_ink,_chalk,_graphite,_or_any_other_substance_or_marking
+  m_EditorClassIdentifier: 
+  Name: A blank book whose pages refuse to hold ink, chalk, graphite, or any other
+    substance or marking
+  cost: 30

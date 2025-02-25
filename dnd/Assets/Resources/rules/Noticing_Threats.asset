@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Noticing_Threats
+  m_EditorClassIdentifier: 
+  CTitle: Adventuring
+  title: Noticing Threats
+  description: use the passive Wisdom (Perception) scores of the characters to determine
+    whether anyone in the group notices a hidden threat. The DM might decide that
+    a threat can be noticed only by characters in a particular rank. For example,
+    as the characters are exploring a maze of tunnels, the DM might decide that only
+    those characters in the back rank have a chance to hear or spot a stealthy creature
+    following the group, while characters in the front and middle ranks cannot.While
+    traveling at a fast pace, characters take a -5 penalty to their passive Wisdom
+    (Perception) scores to notice hidden threats.Encountering Creatures. If the DM
+    determines that the adventurers encounter other creatures while they're traveling,
+    it's up to both groups to decide what happens next. Either group might decide
+    to attack, initiate a conversation, run away, or wait to see what the other group
+    does.Surprising Foes. If the adventurers encounter a hostile creature or group,
+    the DM determines whether the adventurers or their foes might be surprised when
+    combat erupts. See chapter 9 for more about surprise.
+  score: 0

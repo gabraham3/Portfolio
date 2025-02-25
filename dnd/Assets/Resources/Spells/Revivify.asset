@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Revivify
+  m_EditorClassIdentifier: 
+  Name: Revivify
+  Classes:
+  - Cleric
+  - Paladin
+  School: Necromancy
+  Description:
+  - "You touch a creature that has died within the last minute. That creature returns
+    to life with 1 hit point. This spell can\u2019t return to life a creature that
+    has died of old age, nor can it restore any missing body parts."
+  Level: 3rd-level
+  score: 0

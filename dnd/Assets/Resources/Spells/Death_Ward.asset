@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Death_Ward
+  m_EditorClassIdentifier: 
+  Name: Death Ward
+  Classes:
+  - Cleric
+  - Paladin
+  School: Abjuration
+  Description:
+  - You touch a creature and grant it a measure of protection from death. The first
+    time the target would drop to 0 hit points as a result of taking damage, the
+    target instead drops to 1 hit point, and the spell ends. If the spell is still
+    in effect when the target is subjected to an effect that would kill it instantaneously
+    without dealing damage, that effect is instead negated against the target, and
+    the spell ends.
+  Level: 4th-level
+  score: 0

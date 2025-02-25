@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Prestidigitation
+  m_EditorClassIdentifier: 
+  Name: Prestidigitation
+  Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+  School: Transmutation
+  Description:
+  - " This spell is a minor magical trick that novice spellcasters use for practice.
+    You create one of the following magical effects within range: \u2022 You create
+    an instantaneous, harmless sensory effect, such as a shower of sparks, a puff
+    of wind, faint musi cal notes, or an odd odor. \u2022 You instantaneously light
+    or snuff out a candle, a torch, or a small campfire. \u2022 You instantaneously
+    clean or soil an object no larger than 1 cubic foot. \u2022 You chill, warm,
+    or flavor up to 1 cubic foot of nonliv ing material for 1 hour. \u2022 You make
+    a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+    \u2022 You create a nonmagical trinket or an illusory image that can fit in your
+    hand and that lasts until the end of your next turn. If you cast this spell multiple
+    times, you can have up to three of its non-instantaneous effects active at a
+    time, and you can dismiss such an effect as an action."
+  Level: Cantrip
+  score: 0

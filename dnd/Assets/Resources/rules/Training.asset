@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Training
+  m_EditorClassIdentifier: 
+  CTitle: Adventuring
+  title: Training
+  description: You can spend time between adventures learning a new language or training
+    with a set of tools. Your DM might allow additional training options.First, you
+    must find an instructor willing to teach you. The DM determines how long it takes,
+    and whether one or more ability checks are required.The training lasts for 250
+    days and costs 1 gp per day. After you spend the requisite amount of time and
+    money, you learn the new language or gain proficiency with the new tool.
+  score: 0

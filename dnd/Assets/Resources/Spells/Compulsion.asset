@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Compulsion
+  m_EditorClassIdentifier: 
+  Name: Compulsion
+  Classes:
+  - Bard
+  School: Enchantment
+  Description:
+  - "Creatures of your choice that you can see within range and that can hear you
+    must make a Wisdom saving throw. A target automatically succeeds on this saving
+    throw if it can\u2019t be charmed. On a failed save, a target is affected by
+    this spell. Until the spell ends, you can use a bonus action on each of your
+    turns to designate a direction that is horizontal to you. Each affected target
+    must use as much of its movement as possible to move in that direction on its
+    next turn. It can take its action before it moves. After moving in this way,
+    it can make another Wisdom saving to try to end the effect. A target isn\u2019t
+    compelled to move into an obviously deadly hazard, such as a fire or pit, but
+    it will provoke opportunity attacks to move in the designated direction."
+  Level: 4th-level
+  score: 0

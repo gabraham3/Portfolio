@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Light
+  m_EditorClassIdentifier: 
+  Name: Light
+  Classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Wizard
+  School: Evocation
+  Description:
+  - You touch one object that is no larger than 10 feet in any  dimension. Until
+    the spell ends, the object sheds bright  light in a 20-foot radius and dim light
+    for an additional  20 feet. The light can be colored as you like. Completely 
+    covering the object with something opaque blocks the  light. The spell ends if
+    you cast it again or dismiss it  as an action. If you target an object held or
+    worn by a hostile  creature, that creature must succeed on a Dexterity  saving
+    throw to avoid the spell.
+  Level: Cantrip
+  score: 0

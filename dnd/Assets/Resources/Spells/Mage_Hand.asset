@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Mage_Hand
+  m_EditorClassIdentifier: 
+  Name: Mage Hand
+  Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+  School: Conjuration
+  Description:
+  - "A spectral, floating hand appears at a point you choose within range. The hand
+    lasts for the duration or until you dismiss it as an action. The hand vanishes
+    if it is ever more than 30 feet away from you or if you cast this spell again.
+    You can use your action to control the hand. You can use the hand to manipulate
+    an object, open an unlocked door or container, stow or retrieve an item from
+    an open container, or pour the contents out of a vial. You can move the hand
+    up to 30 feet each time you use it. The hand can\u2019t attack, activate magic
+    items, or carry more than 10 pounds."
+  Level: Cantrip
+  score: 0

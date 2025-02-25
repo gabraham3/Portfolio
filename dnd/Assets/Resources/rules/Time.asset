@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Time
+  m_EditorClassIdentifier: 
+  CTitle: Adventuring
+  title: Time
+  description: In situations where keeping track of the passage of time is important,
+    the DM determines the time a task requires. The DM might use a different time
+    scale depending on the context of the situation at hand. In a dungeon environment,
+    the adventurers' movement happens on a scale of minutes. It takes them about
+    a minute to creep down a long hallway, another minute to check for traps on the
+    door at the end of the hall, and a good ten minutes to search the chamber beyond
+    for anything interesting or valuable.In a city or wilderness, a scale of hours
+    is often more appropriate. Adventurers eager to reach the lonely tower at the
+    heart of the forest hurry across those fifteen miles in just under four hours'
+    time.For long journeys, a scale of days works best. Following the road from Baldur's
+    Gate to Waterdeep, the adventurers spend four uneventful days before a goblin
+    ambush interrupts their journey.In combat and other fast-paced situations, the
+    game relies on rounds, a 6-second span of time described in chapter 9.
+  score: 0

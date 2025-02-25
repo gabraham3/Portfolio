@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Find_The_Path
+  m_EditorClassIdentifier: 
+  Name: Find The Path
+  Classes:
+  - Bard
+  - Cleric
+  - Druid
+  School: Divination
+  Description:
+  - "This spell allows you to find the shortest, most direct physical route to a
+    specific fixed location that you are familiar with on the same plane of existence.
+    If you name a destination on another plane of existence, a destination that moves
+    (such as a mobile fortress), or a destination that isn\u2019t specific (such
+    as \u201Ca green dragon\u2019s lair'), the spell fails. For the duration, as
+    long as you are on the same plane of existence as the destination, you know how
+    far it is and in what direction it lies. While you are traveling there, whenever
+    you are presented with a choice of paths along the way, you automatically determine
+    which path is the shortest and most direct route (but not necessarily the safest
+    route) to the destination."
+  Level: 6th-level
+  score: 0

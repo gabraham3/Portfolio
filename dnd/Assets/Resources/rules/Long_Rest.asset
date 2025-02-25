@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Long_Rest
+  m_EditorClassIdentifier: 
+  CTitle: Adventuring
+  title: Long Rest
+  description: "A long rest is a period of extended downtime, at least 8 hours long,
+    during which a character sleeps for at least 6 hours and performs no more than
+    2 hours of light activity, such as reading, talking, eating, or standing watch.
+    If the rest is interrupted by a period of strenuous activity\u2014at least 1
+    hour of walking, fighting, casting spells, or similar adventuring activity\u2014the
+    characters must begin the rest again to gain any benefit from it.At the end of
+    a long rest, a character regains all lost hit points. The character also regains
+    spent Hit Dice, up to a number of dice equal to half of the character's total
+    number of them. You regain at least 1 Hit Die when you finish a long rest.For
+    example, if a character has eight Hit Dice, he or she can regain four spent Hit
+    Dice upon finishing a long rest.A character can't benefit from more than one
+    long rest in a 24-hour period, and a character must have at least 1 hit point
+    at the start of the rest to gain its benefits."
+  score: 0

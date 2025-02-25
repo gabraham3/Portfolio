@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Tasha's_Hideous_Laughter
+  m_EditorClassIdentifier: 
+  Name: Tasha's Hideous Laughter
+  Classes:
+  - Bard
+  - Wizard
+  School: Enchantment
+  Description:
+  - "A creature of your choice that you can see within range perceives everything
+    as hilariously funny and falls into fits of laughter if this spell affects it.
+    The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated
+    and unable to stand up for the duration. A creature with an Intelligence score
+    of 4 or less isn\u2019t affected. At the end of each of its turns, and each time
+    it takes damage, the target can make another Wisdom saving throw. The target
+    has advantage on the saving throw if it\u2019s triggered by damage. On a success,
+    the spell ends."
+  Level: 1st-level
+  score: 0

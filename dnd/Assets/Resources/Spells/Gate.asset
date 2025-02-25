@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Gate
+  m_EditorClassIdentifier: 
+  Name: Gate
+  Classes:
+  - Cleric
+  - Sorcerer
+  - Wizard
+  School: Conjuration
+  Description:
+  - "You conjure a portal linking an unoccupied space you can see within range to
+    a precise location on a different plane of existence. The portal is a circular
+    opening, which you can make 5 to 20 feet in diameter. You can orient the portal
+    in any direction you choose. The portal lasts for the duration. The portal has
+    a front and a back on each plane where it appears. Travel through the portal
+    is possible only by moving through its front. Anything that does so is instantly
+    transported to the other plane, appearing in the unoccupied space nearest to
+    the portal. Deities and other planar rulers can prevent portals created by this
+    spell from opening in their presence or anywhere within their domains. When you
+    cast this spell, you can speak the name of a specific creature (a pseudonym,
+    title, or nickname doesn\u2019t work). If that creature is on a plane other than
+    the one you are on, the portal opens in the named creature\u2019s immediate vicinity
+    and draws the creature through it to the nearest unoccupied space on your side
+    of the portal. You gain no special power over the creature, and it is free to
+    act as the DM deems appropriate. It might leave, attack you, or help you."
+  Level: 9th-level
+  score: 0

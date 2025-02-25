@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Active_Approach_to_Roleplaying
+  m_EditorClassIdentifier: 
+  CTitle: Adventuring
+  title: Active Approach to Roleplaying
+  description: If descriptive roleplaying tells your DM and your fellow players what
+    your character thinks and does, active roleplaying shows them.When you use active
+    roleplaying, you speak with your character's voice, like an actor taking on a
+    role. You might even echo your character's movements and body language. This
+    approach is more immersive than descriptive roleplaying, though you still need
+    to describe things that can't be reasonably acted out.Going back to the example
+    of Chris roleplaying Tordek above, here's how the scene might play out if Chris
+    used active roleplaying:Speaking as Tordek, Chris says in a gruff, deep voice,
+    'I was wondering why it suddenly smelled awful in here. If I wanted to hear anything
+    out of you, I'd snap your arm and enjoy your screams.' In his normal voice, Chris
+    then adds, 'I get up, glare at the elf, and head to the bar.
+  score: 0

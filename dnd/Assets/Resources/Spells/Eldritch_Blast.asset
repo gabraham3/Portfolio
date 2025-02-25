@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Eldritch_Blast
+  m_EditorClassIdentifier: 
+  Name: Eldritch Blast
+  Classes:
+  - Warlock
+  School: Evocation
+  Description:
+  - A beam of crackling energy streaks toward a creature within range. Make a ranged
+    spell attack against the target. On a hit, the target takes 1dlO force damage.
+  - 'At Higher Levels. The spell creates more than one beam when you reach: two beams
+    at 5th level, three beams at 11th level, and four beams at 17th level. You can
+    direct the beams at the same target or at different ones. Make a separate attack
+    roll for each beam.'
+  Level: Cantrip
+  score: 0

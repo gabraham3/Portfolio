@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Druidcraft
+  m_EditorClassIdentifier: 
+  Name: Druidcraft
+  Classes:
+  - Druid
+  School: Transmutation
+  Description:
+  - "Whispering to the spirits of nature, you create one of the following effects
+    within range: \u2022 You create a tiny, harmless sensory effect that predicts
+    what the weather will be at your location for the next 24 hours. The effect might
+    manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes
+    for snow, and so on. This effect persists for 1 round. \u2022 You instantly make
+    a flower blossom, a seed pod open, or a leaf bud bloom. \u2022 You create an
+    instantaneous, harmless sensory effect, such as falling leaves, a puff of wind,
+    the sound of a small animal, or the faint odor of skunk. The effect must fit
+    in a 5-foot cube. \u2022 You instantly light or snuff out a candle, a torch,
+    or a small campfire."
+  Level: Cantrip
+  score: 0

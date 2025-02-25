@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Mordenkainen's_Sword
+  m_EditorClassIdentifier: 
+  Name: Mordenkainen's Sword
+  Classes:
+  - Bard
+  - Wizard
+  School: Evocation
+  Description:
+  - You create a sword-shaped plane of force that hovers within range. It lasts for
+    the duration.When the sword appears, you make a melee spell attack against a
+    target of your choice within 5 feet of the sword. On a hit. the target takes
+    3d10 force damage.Until the spell ends, you can use a bonus action on each of
+    your turns to move the sword up to 20 feet to a spot you can see and repeat this
+    attack against the same target or a different one.
+  Level: 7th-level
+  score: 0

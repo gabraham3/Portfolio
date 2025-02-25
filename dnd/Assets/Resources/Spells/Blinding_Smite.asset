@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Blinding_Smite
+  m_EditorClassIdentifier: 
+  Name: Blinding Smite
+  Classes:
+  - Paladin
+  School: Evocation
+  Description:
+  - "The next time you hit a creature with a melee weapon attack during this spell\u2019s
+    duration, your weapon flares with bright light, and the attack deals an extra
+    3d8 radiant damage to the target. Additionally, the target must succeed on a
+    Constitution saving throw or be blinded until the spell ends. A creature blinded
+    by this spell makes another Constitution saving throw at the end of each of its
+    turns. On a successful save, it is no longer blinded."
+  Level: 3rd-level
+  score: 0

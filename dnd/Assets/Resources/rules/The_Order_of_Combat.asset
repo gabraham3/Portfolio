@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: The_Order_of_Combat
+  m_EditorClassIdentifier: 
+  CTitle: Combat
+  title: The Order of Combat
+  description: Reactions Certain special abilities, spells, and situations allow
+    you to take a special action called a reaction. A reaction is an instant response
+    to a trigger of some kind, which can occur on your turn or on someone else's.
+    The opportunity attack, described later in this chapter, is the most common type
+    of reaction. When you take a reaction, you can't take another one until the start
+    of your next turn. If the reaction interrupts another creature's turn, that creature
+    can continue its turn right after the reaction.
+  score: 0

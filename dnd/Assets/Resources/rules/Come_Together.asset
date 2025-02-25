@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Come_Together
+  m_EditorClassIdentifier: 
+  CTitle: Step-by-Step Characters
+  title: Come Together
+  description: Most D&D characters don't work alone. Each character plays a role
+    within a party, a group of adventurers working together for a common purpose.
+    Teamwork and cooperation greatly improve your party's chances to survive the
+    many perils in the worlds of Dungeons & Dragons. Talk to your fellow players
+    and your DM to decide whether your characters know one another, how they met,
+    and what sorts of quests the group might undertake.
+  score: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Warding_Bond
+  m_EditorClassIdentifier: 
+  Name: Warding Bond
+  Classes:
+  - Cleric
+  School: Abjuration
+  Description:
+  - ' This spell wards a willing creature you touch and creates a mystic connection
+    between you and the target until the spell ends. While the target is within 60
+    feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance
+    to all damage. Also, each time it takes damage, you take the same amount of damage.
+    The spell ends if you drop to 0 hit points or if you and the target become separated
+    by more than 60 feet. It also ends if the spell is cast again on either of the
+    connected creatures. You can also dismiss the spell as an action.'
+  Level: 2nd-level
+  score: 0

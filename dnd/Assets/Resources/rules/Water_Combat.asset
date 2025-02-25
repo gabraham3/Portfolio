@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Water_Combat
+  m_EditorClassIdentifier: 
+  CTitle: Combat
+  title: Water Combat
+  description: Underwater Combat When adventurers pursue sahuagin back to their undersea
+    homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded
+    dungeon room, they must fight in a challenging environment. Underwater the following
+    rules apply. When making a melee weapon attack, a creature that doesn't have
+    a swimming speed (either natural or granted by magic) has disadvantage on the
+    attack roll unless the weapon is a dagger, javelin, shortsword, spear, or trident.
+    A ranged weapon attack automatically misses a target beyond the weapon's normal
+    range. Even against a target within normal range, the attack roll has disadvantage
+    unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin
+    (including a spear, trident, or dart). Creatures and objects that are fully immersed
+    in water have resistance to fire damage.
+  score: 0

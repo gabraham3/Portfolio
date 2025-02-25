@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Dream
+  m_EditorClassIdentifier: 
+  Name: Dream
+  Classes:
+  - Bard
+  - Warlock
+  - Wizard
+  School: Illusion
+  Description:
+  - "This spell shapes a creature\u2019s dreams. Choose a creature known to you as
+    the target of this spell. The target must be on the same plane of existence as
+    you. Creatures that don\u2019t sleep, such as elves, can\u2019t be contacted
+    by this spell. You, or a willing creature you touch, enters a trance state, acting
+    as a messenger. While in the trance, the messenger is aware of his or her surroundings,
+    but can\u2019t take actions or move. If the target is asleep, the messenger appears
+    in the target\u2019s dreams and can converse with the target as long as it remains
+    asleep, through the duration of the spell. The messenger can also shape the environment
+    of the dream, creating landscapes, objects, and other images. The messenger can
+    emerge from the trance at any time, ending the effect of the spell early. The
+    target recalls the dream perfectly upon waking. If the target is awake when you
+    cast the spell, the messenger knows it, and can either end the trance (and the
+    spell) or wait for the target to fall asleep, at which point the messenger appears
+    in the target\u2019s dreams. You can make the messenger appear monstrous and
+    terrifying to the target. If you do, the messenger can deliver a message of no
+    more than ten words and then the target must make a Wisdom saving throw. On a
+    failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts
+    the duration of the target\u2019s sleep and prevents the target from gaining
+    any benefit from that rest. In addition, when the target wakes up, it takes 3d6
+    psychic damage. If you have a body part, lock of hair, clipping from a nail,
+    or similar portion of the target\u2019s body, the target makes its saving throw
+    with disadvantage."
+  Level: 5th-level
+  score: 0

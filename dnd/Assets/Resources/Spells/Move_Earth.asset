@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Move_Earth
+  m_EditorClassIdentifier: 
+  Name: Move Earth
+  Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
+  School: Transmutation
+  Description:
+  - "Choose an area of terrain no larger than 40 feet on a side within range. You
+    can reshape dirt, sand, or clay in the area in any manner you choose for the
+    duration. You can raise or lower the area\u2019s elevation, create or fill in
+    a trench, erect or flatten a wall, or form a pillar. The extent of any such changes
+    can\u2019t exceed half the area\u2019s largest dimension. So, if you affect a
+    40-foot square, you can create a pillar up to 20 feet high, raise or lower the
+    square\u2019s elevation by up to 20 feet, dig a trench up to 20 feet deep, and
+    so on. It takes 10 minutes for these changes to complete. At the end of every
+    10 minutes you spend concentrating on the spell, you can choose a new area of
+    terrain to affect. Because the terrain\u2019s transformation occurs slowly, creatures
+    in the area can\u2019t usually be trapped or injured by the ground\u2019s movement.
+    This spell can\u2019t manipulate natural stone or stone construction. Rocks and
+    structures shift to accommodate the new terrain. If the way you shape the terrain
+    would make a structure unstable, it might collapse. Similarly, this spell doesn\u2019t
+    directly affect plant growth. The moved earth carries any plants along with it."
+  Level: 6th-level
+  score: 0

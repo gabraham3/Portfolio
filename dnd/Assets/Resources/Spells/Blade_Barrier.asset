@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Blade_Barrier
+  m_EditorClassIdentifier: 
+  Name: Blade Barrier
+  Classes:
+  - Cleric
+  School: Evocation
+  Description:
+  - "You create a vertical wall of whirling, razor-sharp blades made of magical energy.
+    The wall appears within range and lasts for the duration. You can make a straight
+    wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up
+    to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides three-quarters
+    cover to creatures behind it, and its space is difficult terrain. When a creature
+    enters the wall\u2019s area for the first time on a turn or starts its turn there,
+    the creature must make a Dexterity saving throw. On a failed save, the creature
+    takes 6d10 slashing damage. On a successful save, the creature takes half as
+    much damage."
+  Level: 6th-level
+  score: 0

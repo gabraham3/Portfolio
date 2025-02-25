@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Other_Activities
+  m_EditorClassIdentifier: 
+  CTitle: Adventuring
+  title: Other Activities
+  description: Characters who turn their attention to other tasks as the group travels
+    are not focused on watching for danger.These characters don't contribute their
+    passive Wisdom (Perception) scores to the group's chance of noticing hidden threats.
+    However, a character not watching for danger can do one of the following activities
+    instead, or some other activity with the DM's permission.Navigate. The character
+    can try to prevent the group from becoming lost, making a Wisdom (Survival) check
+    when the DM calls for it. (The Dungeon Master's Guide has rules to determine
+    whether the group gets lost.)Draw a Map. The character can draw a map that records
+    the group's progress and helps the characters get back on course if they get
+    lost. No ability check is required.Track. A character can follow the tracks of
+    another creature, making a Wisdom (Survival) check when the DM calls for it.
+    (The Dungeon Master's Guide has rules for tracking.)Forage. The character can
+    keep an eye out for ready sources of food and water, making a Wisdom (Survival)
+    check when the DM calls for it. (The Dungeon Master's Guide has rules for foraging.)
+  score: 0

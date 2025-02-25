@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Results_of_Roleplaying
+  m_EditorClassIdentifier: 
+  CTitle: Adventuring
+  title: Results of Roleplaying
+  description: The DM uses your character's actions and attitudes to determine how
+    an NPC reacts. A cowardly NPC buckles under threats of violence. A stubborn dwarf
+    refuses to let anyone badger her. A vain dragon laps up flattery.When interacting
+    with an NPC, pay close attention to the DM's portrayal of the NPC's mood, dialogue,
+    and personality. You might be able to determine an NPC's personality traits,
+    ideals, flaws, and bonds, then play on them to influence the NPC's attitude.Interactions
+    in D&D are much like interactions in real life. If you can offer NPCs something
+    they want, threaten them with something they fear, or play on their sympathies
+    and goals, you can use words to get almost anything you want. On the other hand,
+    if you insult a proud warrior or speak ill of a noble's allies, your efforts
+    to convince or deceive will fall short.
+  score: 0

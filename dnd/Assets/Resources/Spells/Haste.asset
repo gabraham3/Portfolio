@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Haste
+  m_EditorClassIdentifier: 
+  Name: Haste
+  Classes:
+  - Sorcerer
+  - Wizard
+  School: Transmutation
+  Description:
+  - "Choose a willing creature that you can see within range. Until the spell ends,
+    the target\u2019s speed is doubled, it gains a +2 bonus to AC, it has advantage
+    on Dexterity saving throws, and it gains an additional action on each of its
+    turns. That action can be used only to take the Attack (one weapon attack only),
+    Dash, Disengage, Hide, or Use an Object action. When the spell ends, the target
+    can\u2019t move or take actions until after its next turn, as a wave of lethargy
+    sweeps over it."
+  Level: 3rd-level
+  score: 0

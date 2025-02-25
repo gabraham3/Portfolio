@@ -1,0 +1,60 @@
+{
+  "food": [
+    {
+      "name": "Gallon of Ale",
+      "cost": "2 sp"
+    },
+    {
+      "name": "Mug of Ale",
+      "cost": "4 cp"
+    },
+    {
+      "name": "Banquet (per person)",
+      "cost": "10 gp"
+    },
+    {
+      "name": "Bread, loaf",
+      "cost": "2 cp"
+    },
+    {
+      "name": "Cheese, hunk",
+      "cost": "1 sp"
+    },
+    {
+      "name": "Squalid Inn Stay (per day)",
+      "cost": "7 cp"
+    },
+    {
+      "name": "Poor Inn Stay (per day)",
+      "cost": "1 sp"
+    },
+    {
+      "name": "Modest Inn Stay (per day)",
+      "cost": "3 sp"
+    },
+    {
+      "name": "Comfortable Inn Stay (per day)",
+      "cost": "5 sp"
+    },
+    {
+      "name": "Wealthy Inn Stay (per day)",
+      "cost": "8 sp"
+    },
+    {
+      "name": "Aristocratic Inn Stay (per day)",
+      "cost": "2 gp"
+    },
+    {
+      "name": "Meat, chunk",
+      "cost": "3 sp"
+    },
+    {
+      "name": "Pitcher of Common Wine",
+      "cost": "2 sp"
+    },
+    {
+      "name": "Bottle of Fine Wine",
+      "cost": "10 gp"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Wind_Walk
+  m_EditorClassIdentifier: 
+  Name: Wind Walk
+  Classes:
+  - Druid
+  School: Transmutation
+  Description:
+  - " You and up to ten willing creatures you can see within range assume a gaseous
+    form for the duration, appearing as wisps of cloud. While in this cloud form,
+    a creature has a flying speed of 300 feet and has resistance to damage from nonmagical
+    weapons. The only actions a creature can take in this form are the Dash action
+    or to revert to its normal form. Reverting takes 1 minute, during which time
+    a creature is incapacitated and can\u2019t move. Until the spell ends, a creature
+    can revert to cloud form, which also requires the 1-minute transformation. If
+    a creature is in cloud form and flying when the effect ends, the creature descends
+    60 feet per round for 1 minute until it lands, which it does safely. If it can\u2019t
+    land after 1 minute, the creature falls the remaining distance."
+  Level: 6th-level
+  score: 0

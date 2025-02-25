@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Rary's_Telepathic_Bond
+  m_EditorClassIdentifier: 
+  Name: Rary's Telepathic Bond
+  Classes:
+  - Wizard
+  School: Divination
+  Description:
+  - " You forge a telepathic link among up to eight willing creatures of your choice
+    within range, psychicallylinking each creature to all the others for the duration.
+    Creatures with Intelligence scores of 2 or less aren\u2019t affected by this
+    spell. Until the spell ends, the targets can communicate telepathically through
+    the bond whether or not they have a common language. The communication is possible
+    over any distance, though it can\u2019t extend to other planes of existence."
+  Level: 5th-level
+  score: 0

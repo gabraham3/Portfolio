@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Friends
+  m_EditorClassIdentifier: 
+  Name: Friends
+  Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+  School: Enchantment
+  Description:
+  - "For the duration, you have advantage on all Charisma checks directed at one
+    creature of your choice that isn\u2019t hostile toward you. When the spell ends,
+    the creature realizes that you used magic to influence its mood and becomes hostile
+    toward you. A creature prone to violence might attack you. Another creature might
+    seek retribution in other ways (at the DM\u2019s discretion), depending on the
+    nature of your interaction with it."
+  Level: Cantrip
+  score: 0

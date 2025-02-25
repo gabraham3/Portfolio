@@ -1,0 +1,189 @@
+{
+  "tool": [
+    {
+      "name": "Alchemist's Supplies",
+      "cost": "50 gp",
+      "weight": "8 lb."
+    },
+    {
+      "name": "Brewer's Supplies",
+      "cost": "20 gp",
+      "weight": "9 lb."
+    },
+    {
+      "name": "Calligrapher's Supplies",
+      "cost": "10 gp",
+      "weight": "5 lb."
+    },
+    {
+      "name": "Carpenter's Tools",
+      "cost": "8 gp",
+      "weight": "6 lb."
+    },
+    {
+      "name": "Cartographer's Tools",
+      "cost": "15 gp",
+      "weight": "6 lb."
+    },
+    {
+      "name": "Cobbler's Tools",
+      "cost": "5 gp",
+      "weight": "5 lb."
+    },
+    {
+      "name": "Cook's Utensils",
+      "cost": "1 gp",
+      "weight": "8 lb."
+    },
+    {
+      "name": "Glassblower's Tools",
+      "cost": "30 gp",
+      "weight": "5 lb."
+    },
+    {
+      "name": "Jeweler's Tools",
+      "cost": "25 gp",
+      "weight": "2 lb."
+    },
+    {
+      "name": "Leatherworker's Tools",
+      "cost": "5 gp",
+      "weight": "5 lb."
+    },
+    {
+      "name": "Mason's Tools",
+      "cost": "10 gp",
+      "weight": "8 lb."
+    },
+    {
+      "name": "Painter's Tools",
+      "cost": "10 gp",
+      "weight": "5 lb."
+    },
+    {
+      "name": "Potter's Tools",
+      "cost": "10 gp",
+      "weight": "3 lb."
+    },
+    {
+      "name": "Smith's Tools",
+      "cost": "20 gp",
+      "weight": "8 lb."
+    },
+    {
+      "name": "Tinker's Tools",
+      "cost": "50 gp",
+      "weight": "10 lb."
+    },
+    {
+      "name": "Weaver's Tools",
+      "cost": "1 gp",
+      "weight": "5 lb."
+    },
+    {
+      "name": "Woodcarver's Tools",
+      "cost": "1 gp",
+      "weight": "5 lb."
+    },
+    {
+      "name": "Disguise Kit",
+      "cost": "25 gp",
+      "weight": "3 lb."
+    },
+    {
+      "name": "Forgery Kit",
+      "cost": "15 gp",
+      "weight": "5 lb."
+    },
+    {
+      "name": "Dice Set",
+      "cost": "1 sp",
+      "weight": "-"
+    },
+    {
+      "name": "Dragonchess Set",
+      "cost": "1 gp",
+      "weight": "1/2 lb."
+    },
+    {
+      "name": "Playing Card Set",
+      "cost": "5 sp",
+      "weight": "-"
+    },
+    {
+      "name": "Three-Dragon Ante Set",
+      "cost": "1 gp",
+      "weight": "-"
+    },
+    {
+      "name": "Herbalism Kit",
+      "cost": "5 gp",
+      "weight": "3 lb."
+    },
+    {
+      "name": "Bagpipes",
+      "cost": "30 gp",
+      "weight": "6 lb."
+    },
+    {
+      "name": "Drum",
+      "cost": "6 gp",
+      "weight": "3 lb."
+    },
+    {
+      "name": "Dulcimer",
+      "cost": "25 gp",
+      "weight": "10 lb."
+    },
+    {
+      "name": "Flute",
+      "cost": "2 gp",
+      "weight": "1 lb."
+    },
+    {
+      "name": "Lute",
+      "cost": "35 gp",
+      "weight": "2 lb."
+    },
+    {
+      "name": "Lyre",
+      "cost": "30 gp",
+      "weight": "2 lb."
+    },
+    {
+      "name": "Horn",
+      "cost": "3 gp",
+      "weight": "2 lb."
+    },
+    {
+      "name": "Pan Flute",
+      "cost": "12 gp",
+      "weight": "2 lb."
+    },
+    {
+      "name": "Shawm",
+      "cost": "2 gp",
+      "weight": "1 lb."
+    },
+    {
+      "name": "Viol",
+      "cost": "30 gp",
+      "weight": "6 lb."
+    },
+    {
+      "name": "Navigator's Tools",
+      "cost": "25 gp",
+      "weight": "2 lb."
+    },
+    {
+      "name": "Poisoner's Kit",
+      "cost": "50 gp",
+      "weight": "2 lb."
+    },
+    {
+      "name": "Thieves' Tools",
+      "cost": "25 gp",
+      "weight": "1 lb."
+    }
+  ]
+}

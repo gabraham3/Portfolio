@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Knock
+  m_EditorClassIdentifier: 
+  Name: Knock
+  Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
+  School: Transmutation
+  Description:
+  - Choose an object that you can see within range. The object can be a door, a box,
+    a chest, a set of manacles, a padlock, or another object that contains a mundane
+    or magical means that prevents access. A target that is held shut by a mundane
+    lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the
+    object has multiple locks, only one of them is unlocked. If you choose a target
+    that is held shut with arcane lock, that spell is suppressed for 10 minutes,
+    during which time the target can be opened and shut normally. When you cast the
+    spell, a loud knock, audible from as far away as 300 feet, emanates from the
+    target object.
+  Level: 2nd-level
+  score: 0

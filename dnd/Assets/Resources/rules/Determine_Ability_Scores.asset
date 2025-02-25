@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Determine_Ability_Scores
+  m_EditorClassIdentifier: 
+  CTitle: Step-by-Step Characters
+  title: Determine Ability Scores
+  description: 'Much of what your character does in the game depends on his or her
+    six abilities: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
+    Each ability has a score, which is a number you record on your character sheet.
+    The six abilities and their use in the game are described in chapter 7. The Ability
+    Score Summary table provides a quick reference for what qualities are measured
+    by each ability, what races increases which abilities, and what classes consider
+    each ability particularly important. You generate your character''s six ability
+    scores randomly. Roll four 6-sided dice and record the total of the highest three
+    dice on a piece of scratch paper. Do this five more times, so that you have six
+    numbers. If you want to save time or don''t like the idea of randomly determining
+    ability scores, you can use the following scores instead: 15, 14, 13, 12, 10,
+    8. Now take your six numbers and write each number beside one of your character''s
+    six abilities to assign scores to Strength, Dexterity, Constitution, Intelligence,
+    Wisdom, and Charisma. Afterward, make any changes to your ability scores as a
+    result of your race choice. After assigning your ability scores, determine your
+    ability modifiers using the Ability Scores and Modifiers table. To determine
+    an ability modifier without consulting the table, subtract 10 from the ability
+    score and then divide the result by 2 (round down). Write the modifier next to
+    each of your scores. Ability Score Summary Strength Measures: Natural athleticism,
+    bodily power Important for: Barbarian, fighter, paladinRaces that have a bonus
+    to Strength Ability Score Summary Dexterity Measures: Physical agility, reflexes,
+    balance, poise Important for: Monk, ranger, rogue Races that have a bonus to
+    Dexterity Ability Score Summary Constitution Measures: Health, stamina, vital
+    force Important for: Everyone Races that have a bonus to Constitution Ability
+    Score Summary Intelligence Measures: Mental acuity, information recall, analytical
+    skill Important for: Wizard Races that have a bonus to Intelligence Ability Score
+    Summary Wisdom Measures: Awareness, intuition, insight Important for: Cleric,
+    druid Races that have a bonus to Wisdom Ability Score Summary Charisma Measures:
+    Confidence, eloquence, leadership Important for: Bard, sorcerer, warlock Races
+    that have a bonus to Charisma Building Bruenor, Step 3 Bob decides to use the
+    standard set of scores (15, 14, 13, 12, 10, 8) for Bruenor''s abilities. Since
+    he''s a fighter, he puts his highest score, 15, in Strength. His next highest,
+    14, goes in Constitution. Bruenor might be a brash fighter, but Bob decides he
+    wants the dwarf to be older, wiser, and a good leader, so he puts decent scores
+    in Wisdom and Charisma. After applying his racial benefits (increasing Bruenor''s
+    Constitution by 2 and his Strength by 2), Bruenor''s ability scores and modifiers
+    look like this: Strength 17 (+3), Dexterity 10 (+0), Constitution 16 (+3), Intelligence
+    8 (-1), Wisdom 13 (+1), Charisma 12 (+1). Bob fills in Bruenor''s final hit points:
+    10 + his Constitution modifier of +3, for a total of 13 hit points. Variant:
+    Customizing Ability Scores At your Dungeon Master''s option, you can use this
+    variant for determining your ability scores. The method described here allows
+    you to build a character with a set of ability scores you choose individually.
+    You have 27 points to spend on your ability scores. The cost of each score is
+    shown on the Ability Score Point Cost table. For example, a score of 14 costs
+    7 points. Using this method, 15 is the highest ability score you can end up with,
+    before applying racial increases. You can''t have a score lower than 8. This
+    method of determining ability scores enables you to create a set of three high
+    numbers and three low ones (15, 15, 15, 8, 8, 8), a set of numbers that are above
+    average and nearly equal (13, 13, 13, 12, 12, 12), or any set of numbers between
+    those extremes.'
+  score: 0

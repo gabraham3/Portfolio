@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Clone
+  m_EditorClassIdentifier: 
+  Name: Clone
+  Classes:
+  - Wizard
+  School: Necromancy
+  Description:
+  - "This spell grows an inert duplicate of a living creature as a safeguard against
+    death. This clone forms inside a sealed vessel and grows to full size and maturity
+    after 120 days; you can also choose to have the clone be a younger version of
+    the same creature. It remains inert and endures indefinitely, as long as its
+    vessel remains undisturbed. At any time after the clone matures, if the original
+    creature dies, its soul transfers to the clone, provided that the soul is free
+    and willing to return. The clone is physically identical to the original and
+    has the same personality, memories, and abilities, but none of the original\u2019s
+    equipment. The original creature\u2019s physical remains, if they still exist,
+    become inert and can\u2019t thereafter be restored to life, since the creature\u2019s
+    soul is elsewhere."
+  Level: 8th-level
+  score: 0

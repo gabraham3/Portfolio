@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2638d4f91e3b75b4eb61bacc1eec1434, type: 3}
+  m_Name: A_metal_can_that_has_no_opening_but_sounds_as_if_it_is_filled_with_liquid,_sand,_spiders,_or_broken_glass_(your_choice)
+  m_EditorClassIdentifier: 
+  Name: A metal can that has no opening but sounds as if it is filled with liquid,
+    sand, spiders, or broken glass (your choice)
+  cost: 47

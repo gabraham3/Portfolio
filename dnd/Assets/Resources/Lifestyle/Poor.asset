@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7edfc61f57c9eec4d8f8ca2e84af69ee, type: 3}
+  m_Name: Poor
+  m_EditorClassIdentifier: 
+  Name: Poor
+  cost: 2 sp
+  Description: A poor lifestyle means going without the comforts available in a stable
+    community. Simple food and lodgings, threadbare clothing, and unpredictable conditions
+    result in a sufficient, though probably unpleasant, experience. Your accommodations
+    might be a room in a flophouse or in the common room above a tavern. You benefit
+    from some legal protections, but you still have to contend with violence, crime,
+    and disease. People at this lifestyle level tend to be unskilled laborers, costermongers,
+    peddlers, thieves, mercenaries, and other disreputable types.

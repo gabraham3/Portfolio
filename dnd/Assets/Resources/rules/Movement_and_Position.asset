@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Movement_and_Position
+  m_EditorClassIdentifier: 
+  CTitle: Combat
+  title: Movement and Position
+  description: "Squeezing into a Smaller Space A creature can squeeze through a space
+    that is large enough for a creature one size smaller than it. Thus, a Large creature
+    can squeeze through a passage that's only 5 feet wide. While squeezing through
+    a space, a creature must spend 1 extra foot for every foot it moves there, and
+    it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls
+    against the creature have advantage while it's in the smaller space. Variant:
+    Playing on a Grid If you play out a combat using a square grid and miniatures
+    or other tokens, follow these rules. Squares. Each square on the grid represents
+    5 feet. Speed. Rather than moving foot by foot, move square by square on the
+    grid. This means you use your speed in 5-foot segments. This is particularly
+    easy if you translate your speed into squares by dividing the speed by 5. For
+    example, a speed of 30 feet translates into a speed of 6 squares. If you use
+    a grid often, consider writing your speed in squares on your character sheet.
+    Entering a Square. To enter a square, you must have at least 1 square of movement
+    left, even if the square is diagonally adjacent to the square you're in. (The
+    rule for diagonal movement sacrifices realism for the sake of smooth play. The
+    Dungeon Master's Guide provides guidance on using a more realistic approach.)
+    If a square costs extra movement, as a square of difficult terrain does, you
+    must have enough movement left to pay for entering it. For example, you must
+    have at least 2 squares of movement left to enter a square of difficult terrain.
+    Corners. Diagonal movement can't cross the corner of a wall, large tree, or other
+    terrain feature that fills its space. Ranges. To determine the range on a grid
+    between two things\u2014whether creatures or objects\u2014start counting squares
+    from a square adjacent to one of them and stop counting in the space of the other
+    one. Count by the shortest route."
+  score: 0

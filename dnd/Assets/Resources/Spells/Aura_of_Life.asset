@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Aura_of_Life
+  m_EditorClassIdentifier: 
+  Name: Aura of Life
+  Classes:
+  - Paladin
+  School: Abjuration
+  Description:
+  - Life-preserving energy radiates from you in an aura with a 30-foot radius. Until
+    the spell ends, the aura moves with you, centered on you. Each nonhostile creature
+    in the aura (including you) has resistance to necrotic damage, and its hit point
+    maximum can't be reduced. In addition, a nonhostile, living creature regains
+    1 hit point when it starts its turn in the aura with 0 hit points.
+  Level: 4th-level
+  score: 0

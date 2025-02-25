@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Crown_of_Madness
+  m_EditorClassIdentifier: 
+  Name: Crown of Madness
+  Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+  School: Enchantment
+  Description:
+  - One humanoid of your choice that you can see within range must succeed on a Wisdom
+    saving throw or become charmed by you for the duration. While the target is charmed
+    in this way, a twisted crown of jagged iron appears on its head, and a madness
+    glows in its eyes. The charmed target must use its action before moving on each
+    of its turns to make a melee attack against a creature other than itself that
+    you mentally choose.The target can act normally on its turn if you choose no
+    creature or if none are within its reach. On your subsequent turns, you must
+    use your action to maintain control over the target, or the spell ends. Also,
+    the target can make a Wisdom saving throw at the end of each of its turns. On
+    a success, the spell ends.
+  Level: 2nd-level
+  score: 0

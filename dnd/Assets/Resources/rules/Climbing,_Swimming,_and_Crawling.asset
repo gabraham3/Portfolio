@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Climbing,_Swimming,_and_Crawling
+  m_EditorClassIdentifier: 
+  CTitle: Adventuring
+  title: Climbing, Swimming, and Crawling
+  description: Each foot of movement costs 1 extra foot (2 extra feet in difficult
+    terrain) when you're climbing, swimming, or crawling. You ignore this extra cost
+    if you have a climbing speed and use it to climb, or a swimming speed and use
+    it to swim. At the DM's option, climbing a slippery vertical surface or one with
+    few handholds requires a successful Strength (Athletics) check. Similarly, gaining
+    any distance in rough water might require a successful Strength (Athletics) check.
+  score: 0

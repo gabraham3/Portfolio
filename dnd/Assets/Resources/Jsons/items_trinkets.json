@@ -1,0 +1,404 @@
+{
+  "trinket": [
+    {
+      "cost": "01",
+      "name": "A mummified goblin hand"
+    },
+    {
+      "cost": "02",
+      "name": "A piece of crystal that faintly glows in the moonlight"
+    },
+    {
+      "cost": "03",
+      "name": "A gold coin minted in an unknown land"
+    },
+    {
+      "cost": "04",
+      "name": "A diary written in a language you don't know"
+    },
+    {
+      "cost": "05",
+      "name": "A brass ring that never tarnishes"
+    },
+    {
+      "cost": "06",
+      "name": "An old chess piece made from glass"
+    },
+    {
+      "cost": "07",
+      "name": "A pair of knucklebone dice, each with a skull symbol on the side that would noramlly six pips"
+    },
+    {
+      "cost": "08",
+      "name": "A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it"
+    },
+    {
+      "cost": "09",
+      "name": "A rope necklace from which dangles four mummified elf fingers"
+    },
+    {
+      "cost": "10",
+      "name": "The deed for a parcel of land in a realm unknown to you"
+    },
+    {
+      "cost": "11",
+      "name": "A 1-ounce block made from an unknown material"
+    },
+    {
+      "cost": "12",
+      "name": "A small cloth doll skewered with needles"
+    },
+    {
+      "cost": "13",
+      "name": "A tooth from an unknown beast"
+    },
+    {
+      "cost": "14",
+      "name": "An enormous scale, perhaps from a dragon"
+    },
+    {
+      "cost": "15",
+      "name": "A bright green feather"
+    },
+    {
+      "cost": "16",
+      "name": "An old divination card bearing your likeness"
+    },
+    {
+      "cost": "17",
+      "name": "A glass orb filled with moving smoke"
+    },
+    {
+      "cost": "18",
+      "name": "A 1-pound egg with a bright red shell"
+    },
+    {
+      "cost": "19",
+      "name": "A pipe that blows bubbles"
+    },
+    {
+      "cost": "20",
+      "name": "A glass jar containing a weird bit of flesh floating in pickling fluid"
+    },
+    {
+      "cost": "21",
+      "name": "A tiny gnome-crafted music box that plays a song you dimly remember from your childhood"
+    },
+    {
+      "cost": "22",
+      "name": "A small wooden statuette of a smug halfling"
+    },
+    {
+      "cost": "23",
+      "name": "A brass orb etched with strange runes"
+    },
+    {
+      "cost": "24",
+      "name": "A multicolored stone disk"
+    },
+    {
+      "cost": "25",
+      "name": "A tiny silver icon of a raven"
+    },
+    {
+      "cost": "26",
+      "name": "A bag containing forty-seven humanoid teech, one of which is rotten"
+    },
+    {
+      "cost": "27",
+      "name": "A shard of obsidian that always feels warm to the touch"
+    },
+    {
+      "cost": "28",
+      "name": "A dragon's bony talon handing from a plain leather necklace"
+    },
+    {
+      "cost": "29",
+      "name": "A pair of old socks"
+    },
+    {
+      "cost": "30",
+      "name": "A blank book whose pages refuse to hold ink, chalk, graphite, or any other substance or marking"
+    },
+    {
+      "cost": "31",
+      "name": "A silver badge in the shape of a five-pointed star"
+    },
+    {
+      "cost": "32",
+      "name": "A knife that belonged to a relative"
+    },
+    {
+      "cost": "33",
+      "name": "A glass vial filled with nail clippings"
+    },
+    {
+      "cost": "34",
+      "name": "A rectangular metal device with two tiny metal cups on one end that throws sparks when wet"
+    },
+    {
+      "cost": "35",
+      "name": "A white, sequined glove sized for a human"
+    },
+    {
+      "cost": "36",
+      "name": "A vest with one hundred tiny pockets"
+    },
+    {
+      "cost": "37",
+      "name": "A small, weightless stone block"
+    },
+    {
+      "cost": "38",
+      "name": "A tiny sketch portrait of a goblin"
+    },
+    {
+      "cost": "39",
+      "name": "An empty glass vial that smells of perfume when opened"
+    },
+    {
+      "cost": "40",
+      "name": "A gemstone that looks like a lump of coal when examined by anyone but you"
+    },
+    {
+      "cost": "41",
+      "name": "A scrap of cloth from an old banner"
+    },
+    {
+      "cost": "42",
+      "name": "A rank insignia from a lost legionnaire"
+    },
+    {
+      "cost": "43",
+      "name": "A tiny silver bell without a clapper"
+    },
+    {
+      "cost": "44",
+      "name": "A mechanical canary inside a gnomish lamp"
+    },
+    {
+      "cost": "45",
+      "name": "A tiny chest carved to look like it has numerous feet on the bottom"
+    },
+    {
+      "cost": "46",
+      "name": "A dead sprite inside a clear glass bottle"
+    },
+    {
+      "cost": "47",
+      "name": "A metal can that has no opening but sounds as if it is filled with liquid, sand, spiders, or broken glass (your choice)"
+    },
+    {
+      "cost": "48",
+      "name": "A glass orb filled with water, in which swims a clockwork goldfish"
+    },
+    {
+      "cost": "49",
+      "name": "A silver spoon with an M engraved on the handle"
+    },
+    {
+      "cost": "50",
+      "name": "A whistle made form gold-colored wood"
+    },
+    {
+      "cost": "51",
+      "name": "A dead scarab beetlee the size of your hand"
+    },
+    {
+      "cost": "52",
+      "name": "Two toy soldiers, one with a missing head"
+    },
+    {
+      "cost": "53",
+      "name": "A small box filled with different-sized buttons"
+    },
+    {
+      "cost": "54",
+      "name": "A candle that can't be lit"
+    },
+    {
+      "cost": "55",
+      "name": "A tiny cage with no door"
+    },
+    {
+      "cost": "56",
+      "name": "An old key"
+    },
+    {
+      "cost": "57",
+      "name": "An indicipherable treasure map"
+    },
+    {
+      "cost": "58",
+      "name": "A hilt from a broken sword"
+    },
+    {
+      "cost": "59",
+      "name": "A rabbit's foot"
+    },
+    {
+      "cost": "60",
+      "name": "A glass eye"
+    },
+    {
+      "cost": "61",
+      "name": "A cameo carved in the likeness of a hideous person"
+    },
+    {
+      "cost": "62",
+      "name": "A silver skull the size of a coin"
+    },
+    {
+      "cost": "63",
+      "name": "An alabaster mask"
+    },
+    {
+      "cost": "64",
+      "name": "A pyramid of sticky black incense that smells very bad"
+    },
+    {
+      "cost": "65",
+      "name": "A nightcap that, when worn, gives you pleasant dreams"
+    },
+    {
+      "cost": "66",
+      "name": "A single caltrop made from bone"
+    },
+    {
+      "cost": "67",
+      "name": "A gold monocle frame withouth the lens"
+    },
+    {
+      "cost": "68",
+      "name": "A 1-inch cube, each side painted a different color"
+    },
+    {
+      "cost": "69",
+      "name": "A crystal knob from a door"
+    },
+    {
+      "cost": "70",
+      "name": "A small packet filled with pink dust"
+    },
+    {
+      "cost": "71",
+      "name": "A fragment of a beautiful song, written as musical notes on two pieces of parchment"
+    },
+    {
+      "cost": "72",
+      "name": "A silver teardrop earring made from a real teardrop"
+    },
+    {
+      "cost": "73",
+      "name": "The shell of an egg painted with scenes of human misery in disturbing detail"
+    },
+    {
+      "cost": "74",
+      "name": "A fan that, when unfolded, shows a sleeping cat"
+    },
+    {
+      "cost": "75",
+      "name": "A set of bone pipes"
+    },
+    {
+      "cost": "76",
+      "name": "A four-leaf clover pressed inside a book discussing manners and etiquette"
+    },
+    {
+      "cost": "77",
+      "name": "A sheet of parchement upon which is drawn a complex mechanical contraption"
+    },
+    {
+      "cost": "78",
+      "name": "An ornate scabbard that fits no blade you have found so far"
+    },
+    {
+      "cost": "79",
+      "name": "An invitation to a party where a murder happened"
+    },
+    {
+      "cost": "80",
+      "name": "A bronze pentacle with an etching of a rat's head in its center"
+    },
+    {
+      "cost": "81",
+      "name": "A purple handkerchief embroidered with the name of a powerful archmage"
+    },
+    {
+      "cost": "82",
+      "name": "Half of a floorplan for a temple, castle, or some other structure"
+    },
+    {
+      "cost": "83",
+      "name": "A bit of folded cloth that, when unfolded, turns into a stylish cap"
+    },
+    {
+      "cost": "84",
+      "name": "A receipt of deposit at a bank in a far-flung city"
+    },
+    {
+      "cost": "85",
+      "name": "A diary with seven missing pages"
+    },
+    {
+      "cost": "86",
+      "name": "An empty silver snuffbox bearing an inscription on the surface that says 'dreams'"
+    },
+    {
+      "cost": "87",
+      "name": "An iron holy symbol devoted to an unknown god"
+    },
+    {
+      "cost": "88",
+      "name": "A book that tells the story of a legendary hero's rise and fall, with the last chapter missing"
+    },
+    {
+      "cost": "89",
+      "name": "A vial of dragon blood"
+    },
+    {
+      "cost": "90",
+      "name": "An ancient arrow of elven design"
+    },
+    {
+      "cost": "91",
+      "name": "A needle that never bends"
+    },
+    {
+      "cost": "92",
+      "name": "An ornate brooch of dwarven design"
+    },
+    {
+      "cost": "93",
+      "name": "An empty wine bottle bearing a pretty label that says, 'The Wizard of Wines Winery, Red Dragon Crush, 331422-W'"
+    },
+    {
+      "cost": "94",
+      "name": "A mosaic tile with a multicolored, glazed surface"
+    },
+    {
+      "cost": "95",
+      "name": "A petrified mouse"
+    },
+    {
+      "cost": "96",
+      "name": "A black pirate flag adorned with a dragon's skull and crossbones"
+    },
+    {
+      "cost": "97",
+      "name": "A tiny mechanical crab or spider thatmoves about when it's not being observed"
+    },
+    {
+      "cost": "98",
+      "name": "A glass jar containing lard with a label that reads, 'Griffon Grease'"
+    },
+    {
+      "cost": "99",
+      "name": "A wooden box with a ceramic bottom that holds a living worm with a head on each end of its body"
+    },
+    {
+      "cost": "100",
+      "name": "A metal urn containing the ashes of a hero"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a45ca6caf74e24e9c793dca92b9768, type: 3}
+  m_Name: Burglar's_Pack
+  m_EditorClassIdentifier: 
+  Name: Burglar's Pack
+  cost: 16 gp
+  Description: Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string,
+    a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks
+    of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 50 feet
+    of hempen rope strapped to the side of it.

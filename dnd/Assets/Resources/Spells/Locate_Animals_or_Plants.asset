@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Locate_Animals_or_Plants
+  m_EditorClassIdentifier: 
+  Name: Locate Animals or Plants
+  Classes:
+  - Bard
+  - Druid
+  - Ranger
+  School: Divination
+  Description:
+  - Describe or name a specific kind of beast or plant. Concentrating on the voice
+    of nature in your surroundings, you learn the direction and distance to the closest
+    creature or plant of that kind within 5 miles, if any are present.
+  Level: 2nd-level
+  score: 0

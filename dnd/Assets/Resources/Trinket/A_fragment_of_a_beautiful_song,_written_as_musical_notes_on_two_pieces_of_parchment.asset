@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2638d4f91e3b75b4eb61bacc1eec1434, type: 3}
+  m_Name: A_fragment_of_a_beautiful_song,_written_as_musical_notes_on_two_pieces_of_parchment
+  m_EditorClassIdentifier: 
+  Name: A fragment of a beautiful song, written as musical notes on two pieces of
+    parchment
+  cost: 71

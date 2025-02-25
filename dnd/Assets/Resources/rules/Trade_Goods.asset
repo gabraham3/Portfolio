@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Trade_Goods
+  m_EditorClassIdentifier: 
+  CTitle: Equipment
+  title: Trade Goods
+  description: Most wealth is not in coins. It is measured in livestock, grain, land,
+    rights to collect taxes, or rights to resources (such as a mine or a forest).Guilds,
+    nobles, and royalty regulate trade. Chartered companies are granted rights to
+    conduct trade along certain routes, to send merchant ships to various ports,
+    or to buy or sell specific goods. Guilds set prices for the goods or services
+    that they control, and determine who may or may not offer those goods and services.
+    Merchants commonly exchange trade goods without using currency. The Trade Goods
+    table shows the value of commonly exchanged goods.
+  score: 0

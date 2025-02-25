@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Tenser's_Floating_Disk
+  m_EditorClassIdentifier: 
+  Name: Tenser's Floating Disk
+  Classes:
+  - Wizard
+  School: Conjuration
+  Description:
+  - "This spell creates a circular, horizontal plane of force, 3 feet in diameter
+    and 1 inch thick, that floats 3 feet above the ground in an unoccupied space
+    of your choice that you can see within range. The disk remains for the duration,
+    and can hold up to 500 pounds. If more weight is placed on it, the spell ends,
+    and everything on the disk falls to the ground. The disk is immobile while you
+    are within 20 feet of it. If you move more than 20 feet away from it, the disk
+    follows you so that it remains within 20 feet of you. It can move across uneven
+    terrain, up or down stairs, slopes and the like, but it can\u2019t cross an elevation
+    change of 10 feet or more. For example, the disk can\u2019t move across a 10-foot-deep
+    pit, nor could it leave such a pit if it was created at the bottom. If you move
+    more than 100 feet from the disk (typically because it can\u2019t move around
+    an obstacle to follow you), the spell ends."
+  Level: 1st-level
+  score: 0

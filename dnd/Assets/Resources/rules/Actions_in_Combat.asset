@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Actions_in_Combat
+  m_EditorClassIdentifier: 
+  CTitle: Combat
+  title: Actions in Combat
+  description: Actions in Combat When you take your action on your turn, you can
+    take one of the actions presented here, an action you gained from your class
+    or a special feature, or an action that you improvise. Many monsters have action
+    options of their own in their stat blocks. When you describe an action not detailed
+    elsewhere in the rules, the DM tells you whether that action is possible and
+    what kind of roll you need to make, if any, to determine success or failure.
+    Attack, Cast a Spell, Dash, Disengage, Dodge, Help, Hide, Ready, Search, Use
+    an Object, Improvising an Action
+  score: 0

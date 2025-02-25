@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Flame_Strike
+  m_EditorClassIdentifier: 
+  Name: Flame Strike
+  Classes:
+  - Cleric
+  School: Evocation
+  Description:
+  - A vertical column of divine fire roars down from the heavens in a location you
+    specify. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on
+    a point within range must make a Dexterity saving throw. A creature takes 4d6
+    fire damage and 4d6 radiant damage on a failed save, or half as much damage on
+    a successful one.
+  - At Higher Levels. When you cast this spell using a spell slot of 6th level or
+    higher, the fire damage or the radiant damage (your choice) increases by 1d6
+    for each slot level above 5th.
+  Level: 5th-level
+  score: 0

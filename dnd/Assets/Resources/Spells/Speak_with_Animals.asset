@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Speak_with_Animals
+  m_EditorClassIdentifier: 
+  Name: Speak with Animals
+  Classes:
+  - Bard
+  - Druid
+  - Ranger
+  School: Divination
+  Description:
+  - "You gain the ability to comprehend and verbally communicate with beasts for
+    the duration. The knowledge and awareness of many beasts is limited by their
+    intelligence, but at minimum, beasts can give you information about nearby locations
+    and monsters, including whatever they can perceive or have perceived within the
+    past day. You might be able to persuade a beast to perform a small favor for
+    you, at the DM\u2019s discretion."
+  Level: 1st-level
+  score: 0

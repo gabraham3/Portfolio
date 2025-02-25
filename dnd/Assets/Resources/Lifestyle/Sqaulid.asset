@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7edfc61f57c9eec4d8f8ca2e84af69ee, type: 3}
+  m_Name: Sqaulid
+  m_EditorClassIdentifier: 
+  Name: Sqaulid
+  cost: 1 sp
+  Description: You live in a leaky stable, a mud-floored hut just outside town, or
+    a vermin-infested boarding house in the worst part of town. You have shelter
+    from the elements, but you live in a desperate and often violent environment,
+    in places rife with disease, hunger, and misfortune. You are beneath the notice
+    of most people, and you have few legal protections. Most people at this lifestyle
+    level have suffered some terrible setback. They might be disturbed, marked as
+    exiles, or suffer from disease.

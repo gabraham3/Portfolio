@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Arcane_Lock
+  m_EditorClassIdentifier: 
+  Name: Arcane Lock
+  Classes:
+  - Wizard
+  School: Abjuration
+  Description:
+  - You touch a closed door, window, gate, chest, or other entryway, and it becomes
+    locked for the duration. You and the creatures you designate when you cast this
+    spell can open the object normally. You can also set a password that, when spoken
+    within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it
+    is impassable until it is broken or the spell is dispelled or suppressed. Casting
+    knock on the object suppresses arcane lock for 10 minutes. While affected by
+    this spell, the object is more difficult to break or force open; the DC to break
+    it or pick any locks on it increases by 10.
+  Level: 2nd-level
+  score: 0

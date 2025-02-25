@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Divine_Word
+  m_EditorClassIdentifier: 
+  Name: Divine Word
+  Classes:
+  - Cleric
+  School: Evocation
+  Description:
+  - "You utter a divine word, imbued with the power that shaped the world at the
+    dawn of creation. Choose any number of creatures you can see within range. Each
+    creature that can hear you must make a Charisma saving throw. On a failed save,
+    a creature suffers an effect based on its current hit points: \u2022 50 hit points
+    or fewer: deafened for 1 minute \u2022 40 hit points or fewer: deafened and blinded
+    for 10 minutes \u2022 30 hit points or fewer: blinded, deafened, and stunned
+    for 1 hour \u2022 20 hit points or fewer: killed instantly Regardless of its
+    current hit points, a celestial, an elemental, a fey, or a fiend that fails its
+    save is forced back to its plane of origin (if it isn\u2019t there already) and
+    can\u2019t return to your current plane for 24 hours by any means short of a
+    wish spell."
+  Level: 7th-level
+  score: 0

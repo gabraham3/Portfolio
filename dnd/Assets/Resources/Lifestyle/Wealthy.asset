@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7edfc61f57c9eec4d8f8ca2e84af69ee, type: 3}
+  m_Name: Wealthy
+  m_EditorClassIdentifier: 
+  Name: Wealthy
+  cost: 4 gp
+  Description: Choosing a wealthy lifestyle means living a life of luxury, though
+    you might not have achieved the social status associated with the old money of
+    nobility or royalty. You live a lifestyle comparable to that of a highly successful
+    merchant, a favored servant of the royalty, or the owner of a few small businesses.
+    You have respectable lodgings, usually a spacious home in a good part of town
+    or a comfortable suite at a fine inn. You likely have a small staff of servants.

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Tongues
+  m_EditorClassIdentifier: 
+  Name: Tongues
+  Classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Warlock
+  - Wizard
+  School: Divination
+  Description:
+  - This spell grants the creature you touch the ability to understand any spoken
+    language it hears. Moreover, when the target speaks, any creature that knows
+    at least one language and can hear the target understands what it says.
+  Level: 3rd-level
+  score: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Choose_Equipment
+  m_EditorClassIdentifier: 
+  CTitle: Equipment
+  title: Choose Equipment
+  description: 'The marketplace of a large city teems with buyers and sellers of
+    many sorts: dwarf smiths and elf woodcarvers, halfling farmers and gnome jewelers,
+    not to mention humans of every shape, size, and color drawn from a spectrum of
+    nations and cultures. In the largest cities, almost anything imaginable is offered
+    for sale, from exotic spices and luxurious clothing to wicker baskets and practical
+    swords. For an adventurer, the availability of armor, weapons, backpacks, rope,
+    and similar goods is of paramount importance, since proper equipment can mean
+    the difference between life and death in a dungeon or the untamed wilds. This
+    chapter details the mundane and exotic merchandise that adventurers commonly
+    find useful in the face of the threats that the worlds of D&D present.'
+  score: 0

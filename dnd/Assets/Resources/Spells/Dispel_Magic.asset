@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Dispel_Magic
+  m_EditorClassIdentifier: 
+  Name: Dispel Magic
+  Classes:
+  - Bard
+  - Cleric
+  - Paladin
+  - Sorcerer
+  - Warlock
+  - Wizard
+  School: Abjuration
+  Description:
+  - "Choose one creature, object, or magical effect within range. Any spell of 3rd
+    level or lower on the target ends. For each spell of 4th level or higher on the
+    target, make an ability check using your spellcasting ability. The DC equals
+    10 + the spell\u2019s level. On a successful check, the spell ends."
+  - "At Higher Levels. When you cast this spell using a spell slot of 4th level or
+    higher, you automatically end the effects of a spell on the target if the spell\u2019s
+    level is equal to or less than the level of the spell slot you used."
+  Level: 3rd-level
+  score: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Identify
+  m_EditorClassIdentifier: 
+  Name: Identify
+  Classes:
+  - Bard
+  - Wizard
+  School: Divination
+  Description:
+  - You choose one object that you must touch throughout the casting of the spell.
+    If it is a magic item or some other magic-imbued object, you learn its properties
+    and how to use them, whether it requires attunement to use, and how many charges
+    it has, if any. You learn whether any spells are affecting the item and what
+    they are. If the item was created by a spell, you learn which spell created it.
+    If you instead touch a creature throughout the casting, you learn what spells,
+    if any, are currently affecting it.
+  Level: 1st-level
+  score: 0

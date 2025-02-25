@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Commune
+  m_EditorClassIdentifier: 
+  Name: Commune
+  Classes:
+  - Cleric
+  School: Divination
+  Description:
+  - "You contact your deity or a divine proxy and ask up to three questions that
+    can be answered with a yes or no. You must ask your questions before the spell
+    ends. You receive a correct answer for each question. Divine beings aren\u2019t
+    necessarily omniscient, so you might receive \u201Cunclear' as an answer if a
+    question pertains to information that lies beyond the deity\u2019s knowledge.
+    In a case where a one-word answer could be misleading or contrary to the deity\u2019s
+    interests, the DM might offer a short phrase as an answer instead. If you cast
+    the spell two or more times before finishing your next long rest, there is a
+    cumulative 25 percent chance for each casting after the first that you get no
+    answer. The DM makes this roll in secret."
+  Level: 5th-level
+  score: 0

@@ -1,0 +1,34 @@
+{
+  "waterborne": [
+    {
+      "name": "Galley",
+      "cost": "30000 gp",
+      "speed": "4 mph"
+    },
+    {
+      "name": "Keelboat",
+      "cost": "3000 gp",
+      "speed": "1 mph"
+    },
+    {
+      "name": "Longship",
+      "cost": "10000 gp",
+      "speed": "3 mph"
+    },
+    {
+      "name": "Rowboat",
+      "cost": "50 gp",
+      "speed": "1 1/2 mph"
+    },
+    {
+      "name": "Sailing Ship",
+      "cost": "10000 gp",
+      "speed": "2 mph"
+    },
+    {
+      "name": "Warship",
+      "cost": "25000 gp",
+      "speed": "2 1/2 mph"
+    }
+  ]
+}

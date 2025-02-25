@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7edfc61f57c9eec4d8f8ca2e84af69ee, type: 3}
+  m_Name: Modest
+  m_EditorClassIdentifier: 
+  Name: Modest
+  cost: 1 gp
+  Description: A modest lifestyle keeps you out of the slums and ensures that you
+    can maintain your equipment. You live in an older part of town, renting a room
+    in a boarding house, inn, or temple. You don't go hungry or thirsty, and your
+    living conditions are clean, if simple. Ordinary people living modest lifestyles
+    include soldiers with families, laborers, students, priests, hedge wizards, and
+    the like.

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Customization_Options
+  m_EditorClassIdentifier: 
+  CTitle: Customization Options
+  title: Customization Options
+  description: "The combination of ability scores, race, class, and background defines
+    your character's capabilities in the game, and the personal details you create
+    set your character apart from every other character. Even within your class and
+    race, you have options to fine-tune what your character can do. But a few players\u2014with
+    the DM's permission\u2014want to go a step further. Chapter 6 of the Player's
+    Handbook defines two optional sets of rules for customizing your character: multiclassing
+    and feats. Multiclassing lets you combine classes together, and feats are special
+    options you can choose instead of increasing your ability scores as you gain
+    levels. Your DM decides whether these options are available in a campaign."
+  score: 0

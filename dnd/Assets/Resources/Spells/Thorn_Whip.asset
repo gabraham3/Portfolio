@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Thorn_Whip
+  m_EditorClassIdentifier: 
+  Name: Thorn Whip
+  Classes:
+  - Druid
+  School: Transmutation
+  Description:
+  - "You create a long, vine-like whip covered in thorns that lashes out at your
+    command toward a creature in range. Make a melee spell attack against the target.
+    If the attack hits, the creature takes 1d6 piercing damage, and if the creature
+    is Large or smaller, you pull the creature up to 10 feet closer to you. This
+    spell\u2019s damage increases by 1d6 when you reach 5th level (2d6), 11th level
+    (3d6), and 17th level (4d6)."
+  Level: Cantrip
+  score: 0

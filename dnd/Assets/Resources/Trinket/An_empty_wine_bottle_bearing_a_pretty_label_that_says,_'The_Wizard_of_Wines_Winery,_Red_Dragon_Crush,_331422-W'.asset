@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2638d4f91e3b75b4eb61bacc1eec1434, type: 3}
+  m_Name: An_empty_wine_bottle_bearing_a_pretty_label_that_says,_'The_Wizard_of_Wines_Winery,_Red_Dragon_Crush,_331422-W'
+  m_EditorClassIdentifier: 
+  Name: An empty wine bottle bearing a pretty label that says, 'The Wizard of Wines
+    Winery, Red Dragon Crush, 331422-W'
+  cost: 93

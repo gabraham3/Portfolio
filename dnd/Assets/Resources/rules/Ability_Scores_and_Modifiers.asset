@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Ability_Scores_and_Modifiers
+  m_EditorClassIdentifier: 
+  CTitle: Using Ability Scores
+  title: Ability Scores and Modifiers
+  description: Each of a creature's abilities has a score, a number that defines
+    the magnitude of that ability. An ability score is not just a measure of innate
+    capabilities, but also encompasses a creature's training and competence in activities
+    related to that ability. A score of 10 or 11 is the normal human average, but
+    adventurers and many monsters are a cut above average in most abilities. A score
+    of 18 is the highest that a person usually reaches. Adventurers can have scores
+    as high as 20, and monsters and divine beings can have scores as high as 30.
+    Each ability also has a modifier, derived from the score and ranging from -5
+    (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and
+    Modifiers table notes the ability modifiers for the range of possible ability
+    scores, from 1 to 30. To determine an ability modifier without consulting the
+    table, subtract 10 from the ability score and then divide the total by 2 (round
+    down). Because ability modifiers affect almost every attack roll, ability check,
+    and saving throw, ability modifiers come up in play more often than their associated
+    scores.
+  score: 0

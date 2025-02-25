@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Enhance_Ability
+  m_EditorClassIdentifier: 
+  Name: Enhance Ability
+  Classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Wizard
+  School: Transmutation
+  Description:
+  - "You touch a creature and bestow upon it a magical enhancement. Choose one of
+    the following effects; the target gains that effect until the spell ends. Bear\u2019s
+    Endurance. The target has advantage on Constitution checks. It also gains 2d6
+    temporary hit points, which are lost when the spell ends. Bull\u2019s Strength.
+    The target has advantage on Strength checks, and his or her carrying capacity
+    doubles. Cat\u2019s Grace. The target has advantage on Dexterity checks. It also
+    doesn\u2019t take damage from falling 20 feet or less if it isn\u2019t incapacitated.
+    Eagle\u2019s Splendor. The target has advantage on Charisma checks. Fox\u2019s
+    Cunning. The target has advantage on Intelligence checks. Owl\u2019s Wisdom.
+    The target has advantage on Wisdom checks."
+  - At Higher Levels. When you cast this spell using a spell slot of 3rd level or
+    higher, you can target one additional creature for each slot level above 2nd.
+  Level: 2nd-level
+  score: 0

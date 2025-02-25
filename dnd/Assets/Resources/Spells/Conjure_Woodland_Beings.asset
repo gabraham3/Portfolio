@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Conjure_Woodland_Beings
+  m_EditorClassIdentifier: 
+  Name: Conjure Woodland Beings
+  Classes:
+  - Druid
+  - Ranger
+  School: Conjuration
+  Description:
+  - "You summon fey creatures that appear in unoccupied spaces that you can see within
+    range. Choose one of the following options for what appears: \u2022 One fey creature
+    of challenge rating 2 or lower \u2022 Two fey creatures of challenge rating 1
+    or lower \u2022 Four fey creatures of challenge rating 1/2 or lower \u2022 Eight
+    fey creatures of challenge rating 1/4 or lower A summoned creature disappears
+    when it drops to 0 hit points or when the spell ends. The summoned creatures
+    are friendly to you and your companions. Roll initiative for the summoned creatures
+    as a group, which have their own turns. They obey any verbal commands that you
+    issue to them (no action required by you). If you don't issue any commands to
+    them, they defend themselves from hostile creatures, but otherwise take no actions.
+    The DM has the creatures\u2019 statistics."
+  - 'At Higher Levels. When you cast this spell using certain higher-level spell
+    slots, you choose one of the summoning options above, and more creatures appear:
+    twice as many with a 6th-level slot and three times as many with an 8th-level
+    slot.'
+  Level: 4th-level
+  score: 0

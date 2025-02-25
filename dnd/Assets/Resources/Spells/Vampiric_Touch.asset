@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Vampiric_Touch
+  m_EditorClassIdentifier: 
+  Name: Vampiric Touch
+  Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
+  School: Necromancy
+  Description:
+  - The touch of your shadow-wreathed hand can siphon life force from others to heal
+    your wounds. Make a melee spell attack against a creature within your reach.
+    On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal
+    to half the amount of necrotic damage dealt. Until the spell ends, you can make
+    the attack again on each of your turns as an action.
+  - At Higher Levels. When you cast this spell using a spell slot of 4th level or
+    higher, the damage increases by 1d6 for each slot level above 3rd.
+  Level: 3rd-level
+  score: 0

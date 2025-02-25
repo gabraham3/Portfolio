@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Weird
+  m_EditorClassIdentifier: 
+  Name: Weird
+  Classes:
+  - Wizard
+  School: Illusion
+  Description:
+  - " Drawing on the deepest fears of a group of creatures, you create illusory creatures
+    in their minds, visible only to them. Each creature in a 30-foot-radius sphere
+    centered on a point of your choice within range must make a Wisdom saving throw.
+    On a failed save, a creature becomes frightened for the duration. The illusion
+    calls on the creature\u2019s deepest fears, manifesting its worst nightmares
+    as an implacable threat. At the start of each of the frightened creature\u2019s
+    turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage.
+    On a successful save, the spell ends for that creature."
+  Level: 9th-level
+  score: 0

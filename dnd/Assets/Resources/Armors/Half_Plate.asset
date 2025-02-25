@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1974ad9d740b080488b7f2aa9442d5c1, type: 3}
+  m_Name: Half_Plate
+  m_EditorClassIdentifier: 
+  Name: Half Plate
+  cost: 750 gp
+  armorClass: 15 + Dex modifier (max 2)
+  Strength: '-'
+  Stealth: Disadvantage
+  Weight: 40 lb.
+  Description: "Half plate consists of shaped metal plates that cover most of the
+    wearer\uFFFDs body. It does not include leg protection beyond simple greaves
+    that are attached with leather straps."

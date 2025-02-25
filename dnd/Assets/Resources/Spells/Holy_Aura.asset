@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Holy_Aura
+  m_EditorClassIdentifier: 
+  Name: Holy Aura
+  Classes:
+  - Cleric
+  School: Abjuration
+  Description:
+  - Divine light washes out from you and coalesces in a soft radiance in a 30-foot
+    radius around you. Creatures of your choice in that radius when you cast this
+    spell shed dim light in a 5-foot radius and have advantage on all saving throws,
+    and other creatures have disadvantage on attack rolls against them until the
+    spell ends. In addition, when a fiend or an undead hits an affected creature
+    with a melee attack, the aura flashes with brilliant light. The attacker must
+    succeed on a Constitution saving throw or be blinded until the spell ends.
+  Level: 8th-level
+  score: 0

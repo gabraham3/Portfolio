@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Fear
+  m_EditorClassIdentifier: 
+  Name: Fear
+  Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+  School: Illusion
+  Description:
+  - "You project a phantasmal image of a creature\u2019s worst fears. Each creature
+    in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is
+    holding and become frightened for the duration. While frightened by this spell,
+    a creature must take the Dash action and move away from you by the safest available
+    route on each of its turns, unless there is nowhere to move. If the creature
+    ends its turn in a location where it doesn\u2019t have line of sight to you,
+    the creature can make a Wisdom saving throw. On a successful save, the spell
+    ends for that creature."
+  Level: 3rd-level
+  score: 0

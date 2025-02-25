@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724d9e7054fff54eb941041467c77e3, type: 3}
+  m_Name: Using_Ability_Scores
+  m_EditorClassIdentifier: 
+  CTitle: Using Ability Scores
+  title: Using Ability Scores
+  description: "Six abilities provide a quick description of every creature's physical
+    and mental characteristics Strength, measuring physical power Dexterity, measuring
+    agility Constitution, measuring endurance Intelligence, measuring reasoning and
+    memory Wisdom, measuring perception and insight Charisma, measuring force of
+    personality Is a character muscle-bound and insightful? Brilliant and charming?
+    Nimble and hardy? Ability scores define these qualities\u2014a creature's assets
+    as well as weaknesses. The three main rolls of the game\u2014the ability check,
+    the saving throw, and the attack roll\u2014rely on the six ability scores. The
+    book's introduction describes the basic rule behind these rolls: roll a d20,
+    add an ability modifier derived from one of the six ability scores, and compare
+    the total to a target number. This chapter focuses on how to use ability checks
+    and saving throws, covering the fundamental activities that creatures attempt
+    in the game. Rules for attack rolls appear in chapter 9."
+  score: 0

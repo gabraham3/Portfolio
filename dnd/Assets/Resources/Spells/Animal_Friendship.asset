@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Animal_Friendship
+  m_EditorClassIdentifier: 
+  Name: Animal Friendship
+  Classes:
+  - Druid
+  - Ranger
+  School: Enchantment
+  Description:
+  - 'This spell lets you convince a beast that you mean it no harm.Choose a beast
+    that you can see within range. It must see and hear you.If the beast''s Intelligence
+    is 4 or higher, the spell fails.Otherwise, the beast must succeed on a Wisdom
+    saving throw or be charmed by you for the spell''s duration.If you or one of
+    your companions harms the target, the spells ends.At Higher Levels: When you
+    cast this spell using a spell slot of 2nd level or higher, you can affect one
+    additional beast for each slot level above 1st.'
+  Level: 1st-level
+  score: 0

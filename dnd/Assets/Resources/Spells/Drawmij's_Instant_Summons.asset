@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Drawmij's_Instant_Summons
+  m_EditorClassIdentifier: 
+  Name: Drawmij's Instant Summons
+  Classes:
+  - Wizard
+  School: Conjuration
+  Description:
+  - "You touch an object weighing 10 pounds or less whose longest dimension is 6
+    feet or less. The spell leaves an invisible mark on its surface and invisibly
+    inscribes the name of the item on the sapphire you use as the material component.
+    Each time you cast this spell, you must use a different sapphire. At any time
+    thereafter, you can use your action to speak the item\u2019s name and crush the
+    sapphire. The item instantly appears in your hand regardless of physical or planar
+    distances, and the spell ends. If another creature is holding or carrying the
+    item, crushing the sapphire doesn\u2019t transport the item to you, but instead
+    you learn who the creature possessing the object is and roughly where that creature
+    is located at that moment. Dispel magic or a similar effect successfully applied
+    to the sapphire ends this spell\u2019s effect."
+  Level: 6th-level
+  score: 0

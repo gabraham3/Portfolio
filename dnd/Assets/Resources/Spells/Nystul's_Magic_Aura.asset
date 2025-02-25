@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e96a3d7e5262147aa6bfbafdabc9f5, type: 3}
+  m_Name: Nystul's_Magic_Aura
+  m_EditorClassIdentifier: 
+  Name: Nystul's Magic Aura
+  Classes:
+  - Wizard
+  School: Illusion
+  Description:
+  - "You place an illusion on a creature or an object you touch so that divination
+    spells reveal false information about it. The target can be a willing creature
+    or an object that isn\u2019t being carried or worn by another creature.When you
+    cast the spell, choose one or both of the following effects. The effect lasts
+    for the duration. If you cast this spell on the same creature or object every
+    day for 30 days, placing the same effect on it each time, the illusion lasts
+    until it is dispelled.False Aura. You change the way the target appears to spells
+    and magical effects, such as detect magic, that detect magical auras. You can
+    make a nonmagical object appear magical, a magical object appear nonmagical,
+    or change the object\u2019s magical aura so that it appears to belong to a specific
+    school of magic that you choose. When you use this effect on an object, you can
+    make the false magic apparent to any creature that handles the item.Mask. You
+    change the way the target appears to spells and magical effects that detect creature
+    types, such as a paladin\u2019s Divine Sense or the trigger of a symbol spell.
+    You choose a creature type and other spells and magical effects treat the target
+    as if it were a creature of that type or of that alignment."
+  Level: 2nd-level
+  score: 0
