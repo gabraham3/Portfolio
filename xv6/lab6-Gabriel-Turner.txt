@@ -1,0 +1,6 @@
+Expected Time: 5 hrs
+Date	Start	Time Spent	Parts		Work Completed
+12/5	2:00	3:00		All Of It	All the lab was done during this time
+Total		3 hrs
+
+The only small issue that was come across was I didn't realize at first I needed to add 2 to the uint addrs in dinode since we changed direct to 11. However this was quickly realized and fixed. Additionally, this led to the error in mkfs.c which I didn't realize would be occuring there which costed about 15 minutes of trying to trace the error but again this wasn't too hard to fix and solve just a small issue.
