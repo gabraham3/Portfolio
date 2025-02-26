@@ -1,0 +1,4 @@
+This is the portfolio of Gabe Turner.
+
+The xv6 project handled the building of an operating system in xv6. This dealt with implementing Direct and Indirect blocks, Copy on Write, and OS procedures. This was for a class assignment and was built over the course of a semester equally spliting the work with one other person.
+The dnd project was built in unity to be a tool that allows a user to look up rules, items and characters for the game dungeons and dragons. This used a system of reading csv files to add them as objects and read and manipulated them accordingly. This was built for a software engineering course and nearly all the code was designed and written by me with other group members handling design documents and the art assets with it.
